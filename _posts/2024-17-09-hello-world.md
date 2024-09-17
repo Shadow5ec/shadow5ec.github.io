@@ -6,7 +6,7 @@ tags: [red team, smb, active directory ]
 
 # 🌐 Understanding `netexec`: A Powerful Network Execution Tool
 
-
+test
 ## What is `netexec`?
 
 `netexec` is a versatile tool designed for executing commands remotely across a network. It allows administrators and security professionals to run commands on remote systems, facilitating easier management and assessment of networked machines.

@@ -23,3 +23,4 @@ This is a simple post to test how the Jekyll site renders content.
 def hello_world
   puts 'Hello, World!'
 end
+```

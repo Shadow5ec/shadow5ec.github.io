@@ -1,6 +1,6 @@
 ---
 title: Understanding `netexec`
-date: 2024-17-09 00:00:00 +0800
+date: 2024-17-09 
 categories: [pentest, activedirectory, smb]
 tags: [red team, smb, active directory ]
 ---

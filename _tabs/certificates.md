@@ -15,7 +15,7 @@ Welcome to my Certificates page! Here, you can explore the various certification
 Here are some of the key certifications I have earned:
 
 - **HTB Certified Bug Bounty Hunter (HTB CBBH)**  
-  ![CEH Badge](https://raw.githubusercontent.com/Shadow5ec/shadow5ec.github.io/main/_posts/cbbh.png)  
+  ![CEH Badge](https://raw.githubusercontent.com/Shadow5ec/shadow5ec.github.io/main/.github/workflows/Photos/cbbh.png)  
   *Date: May 2024*  
     The HTB Certified Bug Bounty Hunter (HTB CBBH) certification is an immersive and hands-on qualification that assesses candidates on their ability to perform effective bug bounty hunting and web       application security testing. This certification is geared towards entry-level bug bounty hunters, junior web application penetration testers, and web developers who are keen on enhancing their security skills.
     

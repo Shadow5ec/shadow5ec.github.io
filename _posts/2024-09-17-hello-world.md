@@ -19,8 +19,12 @@ This is a simple post to test how the Jekyll site renders content.
 
 ### Example Code
 
-```ruby
+```
 def hello_world
   puts 'Hello, World!'
 end
+```
+This is example code 2 
+```
+code data here, try and copy it
 ```

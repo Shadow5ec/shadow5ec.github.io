@@ -24,7 +24,8 @@ def hello_world
   puts 'Hello, World!'
 end
 ```
-This is example code 2 
+
+This is example code to see how it will work 
 ```
 code data here, try and copy it
 ```
